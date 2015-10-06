@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+	color: White;
+	font-family: Arial, sans-serif;
+
+}
+
+#description{
+	color: White;
+	font-family: Arial;
+}
+
+h1 {
+	border-style: solid;
+	border-width: 5px;
+	border-color: red;
+}
