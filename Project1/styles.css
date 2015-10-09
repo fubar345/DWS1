@@ -37,7 +37,7 @@ footer p {
 h2{
 	font-family: serif, Arial;
 	border: 2px dashed #DC143C;
-	width: 200px
+	width: 200px;
 	padding: 10px;
 	background-color: #FFF;
 	color: #000;
@@ -59,7 +59,6 @@ a:hover{
 }
 
 a:visited{
-	font-style: bold;
 	color: #ff0000;
 
 }
