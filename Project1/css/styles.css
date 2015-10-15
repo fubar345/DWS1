@@ -1,14 +1,21 @@
-div{
+#wrapper{
 	width: 800px;
 	margin: 0 auto;
+	float: left;
+	padding: 20px; 
+	
+	
 }
 
 body{
-	background-color: #000;
+	background: linear-gradient(to right, #000, #FFF);
 	color: #FFF;
 	font-family: Arial, sans-serif;
 	font-size: 1.5em;
 	text-align: left;
+	padding: 20px;
+	
+	
 	
 
 }
@@ -20,14 +27,15 @@ h1 {
 	border-width: 5px;
 	border-color: #DC143C;
 	padding: 20px;
-	background-color: #FFF;
-	color: #000;
+	color: #FFF;
 	margin: 10px;
 	opacity: 0.9;
 	border-radius: 20px;
 	text-shadow: 2px 2px #000;
 	font-weight: normal;
-	
+	background-image: url("../images/1444952316_A_Young_Leo.png");
+	background-repeat: no-repeat;
+	text-align: right;
 }
 
 footer p {
@@ -39,18 +47,24 @@ h2{
 	border: 2px dashed #DC143C;
 	width: 200px;
 	padding: 10px;
-	background-color: #FFF;
-	color: #000;
+	color: #FFF;
 	margin: 5px;
 	border-radius: 10px;
 	text-shadow: 2px 2px #000;
 	font-weight: normal;
-
+	background-image: url("../images/presence-ii.png");
+	background-repeat: repeat-x;
 }
 ul{
 	list-style-type: square;
+	display: inline-block;
 	
 
+}
+
+a:link{
+	color: green;
+	
 }
 
 a:hover{
@@ -70,5 +84,31 @@ a:active{
 figure{
 	margin: 0 auto;
 }
+
+#sidebar{
+	width: 400px;
+	float: left;
+	padding: 20px;
+	margin: 20px;
+	border: 5px dashed #DC143C; 
+
+} 
+
+img.sidebar1{
+	width: 200px
+	
+}
+img.sidebar2{
+	width: 200px;
+}
+
+img.sidebar3{
+	width: 200px;
+}
+
+img.Lion{
+	width: 400px;
+}
+
 
 
