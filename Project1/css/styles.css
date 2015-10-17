@@ -1,5 +1,5 @@
 #wrapper{
-	width: 800px;
+	width: 60%;
 	margin: 0 auto;
 	float: left;
 	padding: 20px; 
@@ -82,15 +82,16 @@ a:active{
 }
 
 figure{
-	margin: 0 auto;
+	margin: 10% auto;
 }
 
 #sidebar{
-	width: 400px;
+	width: 20%;
 	float: left;
 	padding: 20px;
 	margin: 20px;
 	border: 5px dashed #DC143C; 
+	overflow: hidden;
 
 } 
 
