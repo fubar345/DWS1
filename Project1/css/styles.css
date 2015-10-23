@@ -61,7 +61,7 @@ h2{
 	
 }
 h3{
-	font-family: serif, Arial;
+	font-family: Arial, sans-serif;
 	border: 2px dashed #DC143C;
 	width: 30%;
 	padding: 10px;
@@ -151,4 +151,37 @@ th, td{
 td:hover{
 	background-color: #000;
 }
+/*Styling form*/
+.title {
+		float: left;
+		width: 100px;
+		text-align: left;
+		padding-right: 10px;
+		margin: 10 auto;
+		font-size: 80%;
+		color: #000;
+}
+#hear-about{
+		float: bottom;
+		width: 50px
+		text-align: left;
+		padding: 10px 10px 10px 10px;
+		margin: 10 auto;
+		
+}
+.Answer{
+	font-size: 80%;
+	
+}
+
+input:focus, input:hover {
+				background-color: #ffffff;
+				border: 1px solid #b1e1e4;
+}
+
+.Comment{
+	color: #000;
+}
+
+
 
