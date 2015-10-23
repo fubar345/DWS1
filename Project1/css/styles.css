@@ -157,16 +157,16 @@ td:hover{
 		width: 100px;
 		text-align: left;
 		padding-right: 10px;
-		margin: 10 auto;
+		margin: 0 auto;
 		font-size: 80%;
 		color: #000;
 }
 #hear-about{
-		float: bottom;
-		width: 50px
+		float: right;
+		width: 100px;
 		text-align: left;
 		padding: 10px 10px 10px 10px;
-		margin: 10 auto;
+		margin: 0 auto;
 		
 }
 .Answer{
